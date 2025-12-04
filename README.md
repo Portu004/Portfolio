@@ -1,23 +1,18 @@
 # Portfolio-Website
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Info general
+Este es un sitio web de portafolio que contiene mi información personal, mis proyectos, mis habilidades y mi información de contacto. Está desarrollado con HTML, CSS y JavaScript. Es un sitio web adaptable que se puede ver en diferentes dispositivos, como teléfonos móviles, tabletas y computadoras de escritorio.
 
-## General info
-This is a portfolio website that contains my personal information, my projects, my skills, and my contact information. It is a website that is built using HTML, CSS, and JavaScript. It is a responsive website that can be viewed on different devices such as mobile phones, tablets, and desktops.
-
-## Technologies
-Project is created with:
+## Tecnologias
+Proyecto creado con:
 * HTML
 * CSS
 * JavaScript
 
-## View the website
-To view the website, click on the link below:
+## Ver el sitio web
+Para ver el sitio web, haga clic en el siguiente enlace:
+https://portu004.github.io/Portfolio/
 
 
-
-## If you like this project, please give it a 🌟.
-## Thank you 😊.
+## Si te gusta este proyecto dale un  🌟.
+## Gracias!! 😊.
